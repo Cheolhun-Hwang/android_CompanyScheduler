@@ -1,0 +1,4 @@
+#Fri Feb 02 20:19:44 KST 2018
+base.0=/Users/hooney/Documents/GitHub/CompanyScheduler/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
